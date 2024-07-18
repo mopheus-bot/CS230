@@ -1,5 +1,4 @@
-# CS230
-Operating Platforms
+# Operating Platforms
 
 The company TheGamingRoom wanted to expand their game titled "Draw It or Lose It"
   to additional platforms by creating a web-based version of the game. This needed
